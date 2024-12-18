@@ -1,0 +1,17 @@
+{
+    "name": "kanye quotes",
+    "short_name": "kanye quotes",
+    "icons": [
+      {
+        "src": "images.jpg",
+        "sizes": "225x225",
+        "type": "image/png"
+      }
+      
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFF6E9",
+    "theme_color": "#FFF6E9",
+    "id": "/index.html"
+  }
